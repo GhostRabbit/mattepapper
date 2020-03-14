@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pdfmake": "^0.1.60",
+    "pdfmake": "^0.1.65",
     "roboto-fontface": "^0.10.0"
   }
 }
